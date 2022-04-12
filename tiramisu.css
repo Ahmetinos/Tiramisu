@@ -1,0 +1,22 @@
+body {
+    background-color:darksalmon;
+}
+
+.article1 {
+    color:blueviolet;
+    border:4px outset gold;
+    background-color: black;
+}
+
+.article2 {
+    text-align: center;
+    color:blueviolet;
+    border:4px outset gold;
+    background-color: black;
+}
+.article3 {
+    text-align: center;
+    color:blueviolet;
+    border:4px outset gold;
+    background-color: black;
+}
